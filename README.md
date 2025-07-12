@@ -1,8 +1,28 @@
-# React + Vite
+## 📝 Projeto: Gerenciador de Tarefas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto consiste em uma aplicação web no estilo **To Do List**, desenvolvida para organizar tarefas de forma prática e eficiente. Nele, é possível adicionar, remover e marcar tarefas como concluídas com uma interface moderna e intuitiva.
 
-Currently, two official plugins are available:
+Embora seja uma aplicação simples, procurei caprichar no design utilizando o Tailwind CSS para criar uma interface limpa, responsiva e agradável em qualquer dispositivo. O foco principal foi aplicar conceitos de **componentização com React**, além de aproveitar a performance otimizada do Vite no ambiente de desenvolvimento.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este trabalho foi desenvolvido como parte dos meus estudos em desenvolvimento frontend, explorando na prática como criar interfaces modernas e funcionais com ferramentas atuais do ecossistema JavaScript.
+
+---
+
+### 🛠️ Tecnologias utilizadas:
+
+- React  
+- Vite  
+- Tailwind CSS  
+- JavaScript
+
+---
+
+### 🔗 [Clique aqui para acessar o projeto](https://seu-link.vercel.app)  
+> *(Substitua com o link real do projeto quando estiver disponível)*
+
+---
+
+### 📷 Preview do projeto:
+
+> *(Adicione um print com a linha abaixo, substituindo o caminho da imagem)*  
+`![Preview do projeto](./caminho-da-imagem.png)`
