@@ -17,12 +17,10 @@ Este trabalho foi desenvolvido como parte dos meus estudos em desenvolvimento fr
 
 ---
 
-### 🔗 [Clique aqui para acessar o projeto](https://seu-link.vercel.app)  
-> *(Substitua com o link real do projeto quando estiver disponível)*
+### 🔗 [Clique aqui para acessar o projeto](https://gerenciador-tarefas-flame.vercel.app/)  
 
 ---
 
 ### 📷 Preview do projeto:
 
-> *(Adicione um print com a linha abaixo, substituindo o caminho da imagem)*  
-`https://raw.githubusercontent.com/crixsanti/gerenciador-tarefas/refs/heads/main/gerenciador%20de%20tarefas.png`
+<img src="https://raw.githubusercontent.com/crixsanti/gerenciador-tarefas/refs/heads/main/gerenciador%20de%20tarefas.png" alt="Imagem do projeto Gerenciador de Tarefas" />
