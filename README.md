@@ -25,4 +25,4 @@ Este trabalho foi desenvolvido como parte dos meus estudos em desenvolvimento fr
 ### 📷 Preview do projeto:
 
 > *(Adicione um print com a linha abaixo, substituindo o caminho da imagem)*  
-`[![Preview do projeto](./caminho-da-imagem.png)](https://raw.githubusercontent.com/crixsanti/gerenciador-tarefas/refs/heads/main/gerenciador%20de%20tarefas.png)`
+`https://raw.githubusercontent.com/crixsanti/gerenciador-tarefas/refs/heads/main/gerenciador%20de%20tarefas.png`
